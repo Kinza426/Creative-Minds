@@ -1,1 +1,1 @@
-# Creative-Minds
+Description of the project
