@@ -29,7 +29,7 @@ Git Commands Used
 
 1. git add . (staged all files)
 2. git commit -m "Initial commit" (committed changes)
-3. `git remote add origin (link unavailable) (linked to GitHub repository)
+3. `git remote add origin (main) (linked to GitHub repository)
 4. git push -u origin master (pushed changes to GitHub)
 5. git branch kinzatask1 (created new branch)
 6. git checkout kinzatask1 (switched to new branch)
