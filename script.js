@@ -1,1 +1,1 @@
-console.log("Welcome to Creative Minds!");
+console.log("Welcome to Creative Minds! assigment");
